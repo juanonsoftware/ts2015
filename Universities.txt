@@ -10,5 +10,11 @@
 		Name: "Đại học Ngoại thương (cơ sở Hà Nội & Quảng Ninh)",
 		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHNT%20-%20HN%26QN/Data.xls",
 		RefreshDate: "201508031500"
+	},
+	{
+		Code: "DHCNHCM",
+		Name: "Đại học Công nghiệp - TP HCM",
+		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xlsx",
+		RefreshDate: "201508031500"
 	}
 ]
