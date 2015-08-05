@@ -14,13 +14,19 @@
 	{
 		Code: "DHCN-HCM",
 		Name: "Đại học Công nghiệp - TP HCM",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xlsx?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xls?raw=true",
+		RefreshDate: "201508031500"
+	},
+	{
+		Code: "DHKDCNHN",
+		Name: "Đại học Kinh doanh và Công nghệ Hà Nội",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHKDCNHN/DANHSACH%20THI%20SINH%20DKXT_Data.xls?raw=true",
 		RefreshDate: "201508031500"
 	},
 	{
 		Code: "DHXD",
 		Name: "Đại học Xây dựng Hà Nội",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD/Data.xls?raw=true",
 		RefreshDate: "201508031500"
 	},
 	{
