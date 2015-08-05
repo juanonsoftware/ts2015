@@ -1,0 +1,14 @@
+[
+	{
+		Code: "DHH",
+		Name: "Đại học Huế",
+		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHH/Data.xls",
+		RefreshDate: "201508031500"
+	},
+	{
+		Code: "DHNT-HNQN",
+		Name: "Đại học Ngoại thương (cơ sở Hà Nội & Quảng Ninh)",
+		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHNT%20-%20HN%26QN/Data.xls",
+		RefreshDate: "201508031500"
+	}
+]
