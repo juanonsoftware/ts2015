@@ -2,19 +2,19 @@
 	{
 		Code: "DHH",
 		Name: "Đại học Huế",
-		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHH/Data.xls",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHH/Data.xls?raw=true",
 		RefreshDate: "201508031500"
 	},
 	{
 		Code: "DHNT-HNQN",
 		Name: "Đại học Ngoại thương (cơ sở Hà Nội & Quảng Ninh)",
-		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHNT%20-%20HN%26QN/Data.xls",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHNT%20-%20HN&QN/Data.xls?raw=true",
 		RefreshDate: "201508031500"
 	},
 	{
 		Code: "DHCNHCM",
 		Name: "Đại học Công nghiệp - TP HCM",
-		FilePath: "https://github.com/juanonsoftware/ts2015/raw/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xlsx",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xlsx?raw=true",
 		RefreshDate: "201508031500"
 	}
 ]
