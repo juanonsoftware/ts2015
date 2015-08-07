@@ -1,4 +1,4 @@
-[
+﻿[
 	{
 		Code: "DHH",
 		Name: "Đại học Huế",
@@ -39,6 +39,6 @@
 		Code: "DHHH",
 		Name: "Đại học Hàng Hải Việt Nam",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHH/20150806/DanhSachThiSinhTheoDot_06082015_16g45p_Data.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508061700"
 	}
 ]
