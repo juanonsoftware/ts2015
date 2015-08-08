@@ -2,43 +2,64 @@
 	{
 		Code: "DHH",
 		Name: "Đại học Huế",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHH/Data.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508031500",
+		Note: "",
+		DataVersion: 20150803
 	},
 	{
 		Code: "DHNT-HNQN",
 		Name: "Đại học Ngoại thương (cơ sở Hà Nội & Quảng Ninh)",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHNT%20-%20HN&QN/Data.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508031500",
+		Note: "",
+		DataVersion: 20150803
 	},
 	{
 		Code: "DHCN-HCM",
 		Name: "Đại học Công nghiệp - TP HCM",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/DanhSachThiSinhDangKy_03_08.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508031500",
+		Note: "",
+		DataVersion: 20150803
 	},
 	{
 		Code: "DHKDCNHN",
 		Name: "Đại học Kinh doanh và Công nghệ Hà Nội",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHKDCNHN/DANHSACH%20THI%20SINH%20DKXT_Data.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508031500",
+		Note: "",
+		DataVersion: 20150803
 	},
 	{
 		Code: "DHXD",
 		Name: "Đại học Xây dựng Hà Nội",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD/Data.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508031500",
+		Note: "",
+		DataVersion: 20150803
 	},
 	{
 		Code: "DHSP",
 		Name: "Đại học Sư phạm Hà Nội",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHSPHN/Data_20150803.xls?raw=true",
-		RefreshDate: "201508031500"
+		RefreshDate: "201508031500",
+		Note: "",
+		DataVersion: 20150803
 	},
 	{
 		Code: "DHHH",
 		Name: "Đại học Hàng Hải Việt Nam",
+		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHH/20150806/DanhSachThiSinhTheoDot_06082015_16g45p_Data.xls?raw=true",
-		RefreshDate: "201508061700"
+		RefreshDate: "201508061700",
+		Note: "",
+		DataVersion: 20150803
 	}
 ]
