@@ -21,7 +21,7 @@
 		Code: "DHCNHCM",
 		Name: "Đại học Công nghiệp - TP HCM",
 		Website: "",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/20150803/DanhSachThiSinhDangKy_03_08.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN-HCM/20150803/DanhSachThiSinhDangKy_03_08.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
 		DataVersion: 20150803
@@ -30,7 +30,7 @@
 		Code: "DHKDCNHN",
 		Name: "Đại học Kinh doanh và Công nghệ Hà Nội",
 		Website: "",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHKDCNHN/20150803/DANHSACH%20THI%20SINH%20DKXT_Data.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHKDCN-HN/20150803/DANHSACH%20THI%20SINH%20DKXT_Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
 		DataVersion: 20150803
