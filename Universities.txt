@@ -9,7 +9,7 @@
 		DataVersion: 20150803
 	},
 	{
-		Code: "DHNT-CS1",
+		Code: "DHNTCS1",
 		Name: "Đại học Ngoại thương (Cơ sở 1 phía Bắc)",
 		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHNT/20150803/CS1/CS1_Data.xls?raw=true",
@@ -18,7 +18,7 @@
 		DataVersion: 20150803
 	},
 	{
-		Code: "DHCN-HCM",
+		Code: "DHCNHCM",
 		Name: "Đại học Công nghiệp - TP HCM",
 		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN%20-%20HCM/20150803/DanhSachThiSinhDangKy_03_08.xls?raw=true",
@@ -36,19 +36,19 @@
 		DataVersion: 20150803
 	},
 	{
-		Code: "DHXD-HN",
+		Code: "DHXDHN",
 		Name: "Đại học Xây dựng Hà Nội",
 		Website: "",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD/Data.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD-HN/20150803/Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
 		DataVersion: 20150803
 	},
 	{
-		Code: "DHSP",
+		Code: "DHSPHN",
 		Name: "Đại học Sư phạm Hà Nội",
 		Website: "",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHSPHN/Data_20150803.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHSP-HN/20150803/Data_20150803.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
 		DataVersion: 20150803
