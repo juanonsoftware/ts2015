@@ -11,10 +11,10 @@
 	{
 		Code: "DHNTCS1",
 		Name: "Đại học Ngoại thương (Cơ sở 1 phía Bắc)",
-		Website: "",
+		Website: "http://qldt.ftu.edu.vn/ https://sites.google.com/site/dhnttuyensinh2015/",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHNT/20150803/CS1/CS1_Data.xls?raw=true",
 		RefreshDate: "201508031500",
-		Note: "",
+		Note: "Số điện thoại giải đáp thông tin tuyển sinh 2015: 04-32595158 (máy lẻ 203 hoặc 206)",
 		DataVersion: 20150803
 	},
 	{
@@ -22,7 +22,7 @@
 		Name: "Đại học Công nghiệp - TP HCM",
 		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN-HCM/20150803/DanhSachThiSinhDangKy_03_08_Data.xls?raw=true",
-		RefreshDate: "201508031500",
+		RefreshDate: "201508031502",
 		Note: "",
 		DataVersion: 20150803
 	},
@@ -60,6 +60,28 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHH/20150806/DanhSachThiSinhTheoDot_06082015_16g45p_Data.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
+		DataVersion: 20150803
+	},
+	{
+		Code: "HVNNVN",
+		Name: "Học viện Nông nghiệp Việt Nam",
+		Website: "",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/HVNNVN/20150806/DanhSachThiSinhTheoDot060815_Web(1)_Data.xls?raw=true",
+		RefreshDate: "201508061700",
+		Note: "",
+		DataVersion: 20150806
+	},
+	{
+		Code: "DHBKHN",
+		Name: "Đại học Bách khoa Hà Nội",
+		Website: "http://ts.hust.edu.vn/ http://ts.hust.edu.vn/122-db-dc2015",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHBKHN/20150803/DSCongBo20150804-HSPT-CapNhat_Data.xls?raw=true",
+		RefreshDate: "201508031630",
+		Note: "Điểm xét của thí sinh sẽ được tính theo công thức sau:<br />
+		- Đối với các nhóm ngành không có quy định môn chính:<br />
+		Điểm xét = Tổng điểm 3 môn/3 + điểm ưu tiên/3<br />
+		- Đối với các nhóm ngành có quy định môn chính:<br />
+		Điểm xét = Tổng điểm 3 môn có nhân hệ số môn chính /4 + điểm ưu tiên/3",
 		DataVersion: 20150803
 	}
 ]
