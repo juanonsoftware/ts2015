@@ -3,13 +3,13 @@
 		Code: "DHH",
 		Name: "Đại học Huế",
 		Website: "",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHH/Data.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHH/20150803/Data.xls?raw=true",
 		RefreshDate: "201508031500",
-		Note: "",
+		Note: "Ở ô Mã Ngành = Mã trường + Mã Ngành. Mã ngành nào có ký tự 'M' ở sau có nghĩa đó là ngành có tổ hợp môn mới.",
 		DataVersion: 20150803
 	},
 	{
-		Code: "DHNT-HNQN",
+		Code: "DHNT-CS1",
 		Name: "Đại học Ngoại thương (cơ sở Hà Nội & Quảng Ninh)",
 		Website: "",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHNT%20-%20HN&QN/Data.xls?raw=true",
