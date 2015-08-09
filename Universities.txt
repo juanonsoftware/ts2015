@@ -6,7 +6,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHH/20150803/Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "Ở ô Mã Ngành = Mã trường + Mã Ngành. Mã ngành nào có ký tự 'M' ở sau có nghĩa đó là ngành có tổ hợp môn mới.",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "DHNTCS1",
@@ -15,7 +16,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHNT/20150803/CS1/CS1_Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "Số điện thoại giải đáp thông tin tuyển sinh 2015: 04-32595158 (máy lẻ 203 hoặc 206)",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "DHCNHCM",
@@ -24,7 +26,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN-HCM/20150803/DanhSachThiSinhDangKy_03_08_Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "DHKDCNHN",
@@ -33,7 +36,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHKDCN-HN/20150803/DANHSACH%20THI%20SINH%20DKXT_Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "DHXDHN",
@@ -42,7 +46,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD-HN/20150803/Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "DHSPHN",
@@ -51,7 +56,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHSP-HN/20150803/Data_20150803.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "DHHH",
@@ -60,7 +66,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHH/20150806/DanhSachThiSinhTheoDot_06082015_16g45p_Data.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: true,
 	},
 	{
 		Code: "HVNNVN",
@@ -69,7 +76,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/HVNNVN/20150806/DanhSachThiSinhTheoDot060815_Web(1)_Data.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: true,
 	},
 	{
 		Code: "DHLHN",
@@ -78,7 +86,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHLHN/20150806/.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: false,
 	},
 	{
 		Code: "DHYHN",
@@ -87,7 +96,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHYHN/20150803/DSDKTS%203-8-2015-OK_Data.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: true,
 	},
 	{
 		Code: "DHLN",
@@ -96,7 +106,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHLN/20150806/DSthisinhdknguyenvong106082015_Data.xls?raw=true",
 		RefreshDate: "201508061701",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: true,
 	},
 	{
 		Code: "HVTC",
@@ -105,7 +116,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master///.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: false,
 	},
 	{
 		Code: "DHCNHN",
@@ -114,7 +126,8 @@
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master///.xls?raw=true",
 		RefreshDate: "201508061700",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: false,
 	},
 	{
 		Code: "DHKTQD",
@@ -123,18 +136,20 @@
 		FilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/DHKTQD/20150806/KHA_BaoCaoChiTietDKTS-0608_Data.csv",
 		RefreshDate: "201508061704",
 		Note: "",
-		DataVersion: 20150806
+		DataVersion: 20150806,
+		IsActive: true,
 	},
 	{
 		Code: "DHCD",
 		Name: "Đại học Công đoàn",
 		Website: "http://dhcd.edu.vn/ http://dhcd.edu.vn/BaiViet.aspx?id=489",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCD/20150806/Nhap%20may%20tinh%20Xet%20tuyen%202015%20-%20gui%20WEB_Data.xls?raw=true",
-		RefreshDate: "201508061700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCD/20150809/Nhap%20may%20tinh%20Xet%20tuyen%202015%20-%20gui%20WEB%209_8_Data.xls?raw=true",
+		RefreshDate: "201508091700",
 		Note: "Tổng điểm là chưa bao gồm ưu tiên khu vực, đối tượng.<br />
 		Phòng Đào tạo - Trường Đại học Công đoàn (P302 - nhà A) hoặc gọi điện trực tiếp đến số điện thoại: 043.8512713; 043.8573204 (trong giờ hành chính).
 		",
-		DataVersion: 20150806
+		DataVersion: 20150809,
+		IsActive: true,
 	},
 	{
 		Code: "DHBKHN",
@@ -147,6 +162,7 @@
 		Điểm xét = Tổng điểm 3 môn/3 + điểm ưu tiên/3<br />
 		- Đối với các nhóm ngành có quy định môn chính:<br />
 		Điểm xét = Tổng điểm 3 môn có nhân hệ số môn chính /4 + điểm ưu tiên/3",
-		DataVersion: 20150803
+		DataVersion: 20150803,
+		IsActive: false,
 	}
 ]
