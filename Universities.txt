@@ -120,9 +120,20 @@
 		Code: "DHKTQD",
 		Name: "Đại học Kinh tế Quốc dân",
 		Website: "https://www.neu.edu.vn https://www.neu.edu.vn/ViewTuyenSinh.aspx?ID=597",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHKTQD/20150806/KHA_BaoCaoChiTietDKTS-0608_Data.xls?raw=true",
-		RefreshDate: "201508061703",
+		FilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/DHKTQD/20150806/KHA_BaoCaoChiTietDKTS-0608_Data.csv",
+		RefreshDate: "201508061704",
 		Note: "",
+		DataVersion: 20150806
+	},
+	{
+		Code: "DHCD",
+		Name: "Đại học Công đoàn",
+		Website: "http://dhcd.edu.vn/ http://dhcd.edu.vn/BaiViet.aspx?id=489",
+		FilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/DHKTQD/20150806/KHA_BaoCaoChiTietDKTS-0608_Data.csv",
+		RefreshDate: "201508061700",
+		Note: "Tổng điểm là chưa bao gồm ưu tiên khu vực, đối tượng.<br />
+		Phòng Đào tạo - Trường Đại học Công đoàn (P302 - nhà A) hoặc gọi điện trực tiếp đến số điện thoại: 043.8512713; 043.8573204 (trong giờ hành chính).
+		",
 		DataVersion: 20150806
 	},
 	{
