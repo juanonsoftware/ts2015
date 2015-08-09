@@ -38,7 +38,7 @@
 	{
 		Code: "DHXDHN",
 		Name: "Đại học Xây dựng Hà Nội",
-		Website: "",
+		Website: "http://tuyensinh.nuce.edu.vn/ http://tuyensinh.nuce.edu.vn/danh-muc/thong-tin-tuyen-sinh-2015",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD-HN/20150803/Data.xls?raw=true",
 		RefreshDate: "201508031500",
 		Note: "",
@@ -72,11 +72,38 @@
 		DataVersion: 20150806
 	},
 	{
+		Code: "DHLHN",
+		Name: "Đại học Luật Hà Nội",
+		Website: "http://www.hlu.edu.vn/ http://www.hlu.edu.vn/tintuc/c-245/Tuyen-sinh.html",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHLHN/20150806/.xls?raw=true",
+		RefreshDate: "201508061700",
+		Note: "",
+		DataVersion: 20150806
+	},
+	{
+		Code: "DHYHN",
+		Name: "Đại học Y Hà Nội",
+		Website: "http://www.hmu.edu.vn/ http://www.hmu.edu.vn/news/xc66_.html http://www.hmu.edu.vn/news/tID3727_Cap-nhat-hang-ngay-thong-tin-so-lieu-dang-ky-xet-tuyen-Dai-hoc-Y-Ha-Noi-2015-.html http://hmu.edu.vn/ts2015/baocaots.aspx http://hmu.edu.vn/ts2015/danhsachtsdangky.aspx",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHYHN/20150806/.xls?raw=true",
+		RefreshDate: "201508061700",
+		Note: "Mọi thắc mắc xin vui lòng liên hệ theo số máy: 0966.022.068",
+		DataVersion: 20150806
+	},
+	{
+		Code: "DHLN",
+		Name: "Đại học Lâm nghiệp",
+		Website: "http://tuyensinh.vfu.edu.vn/ http://tuyensinh.vfu.edu.vn/index.php?option=com_content&view=article&id=320:s-im-thi-ti-trng-i-hc-lam-nghip&catid=97:i-hc-chinh-qui&Itemid=122",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHYHN/20150806/.xls?raw=true",
+		RefreshDate: "201508061727",
+		Note: "",
+		DataVersion: 20150806
+	},
+	{
 		Code: "DHBKHN",
 		Name: "Đại học Bách khoa Hà Nội",
 		Website: "http://ts.hust.edu.vn/ http://ts.hust.edu.vn/122-db-dc2015",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHBKHN/20150803/DSCongBo20150804-HSPT-CapNhat_Data.xls?raw=true",
-		RefreshDate: "201508031630",
+		RefreshDate: "201508031631",
 		Note: "Điểm xét của thí sinh sẽ được tính theo công thức sau:<br />
 		- Đối với các nhóm ngành không có quy định môn chính:<br />
 		Điểm xét = Tổng điểm 3 môn/3 + điểm ưu tiên/3<br />
