@@ -152,6 +152,16 @@
 		IsActive: true,
 	},
 	{
+		Code: "DHCNHN",
+		Name: "Đại học Công nghiệp Hà Nội",
+		Website: "http://tuyensinh.haui.edu.vn/",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCNHN/20150807/DKTS_07_Data.xls?raw=true",
+		RefreshDate: "201508071700",
+		Note: "",
+		DataVersion: 20150807,
+		IsActive: true,
+	},
+	{
 		Code: "DHBKHN",
 		Name: "Đại học Bách khoa Hà Nội",
 		Website: "http://ts.hust.edu.vn/ http://ts.hust.edu.vn/122-db-dc2015",
