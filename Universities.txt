@@ -103,10 +103,10 @@
 		Code: "DHLN",
 		Name: "Đại học Lâm nghiệp",
 		Website: "http://tuyensinh.vfu.edu.vn/ http://tuyensinh.vfu.edu.vn/index.php?option=com_content&view=article&id=320:s-im-thi-ti-trng-i-hc-lam-nghip&catid=97:i-hc-chinh-qui&Itemid=122",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHLN/20150806/DSthisinhdknguyenvong106082015_Data.xls?raw=true",
-		RefreshDate: "201508061701",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHLN/20150812/Data_DANSACHXETTUYEN12082015.xls?raw=true",
+		RefreshDate: "201508121700",
 		Note: "",
-		DataVersion: 20150806,
+		DataVersion: 20150812,
 		IsActive: true,
 	},
 	{
