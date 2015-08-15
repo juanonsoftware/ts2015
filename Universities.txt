@@ -206,7 +206,7 @@
 		Name: "Đại học Sư phạm (ĐH Thái Nguyên)",
 		Website: "http://tuyensinh.tnu.edu.vn/ http://tuyensinh.tnu.edu.vn/article/details/361",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTN/20150812/DTS2015_1208_Data.xls?raw=true",
-		RefreshDate: "201508121702",
+		RefreshDate: "201508121700",
 		Note: "Danh sách thí sinh đăng ký xét tuyển sử dụng kết quả kỳ thi THPT Quốc Gia năm 2015 cập nhật ngày 12/8/2015",
 		DataVersion: 20150812,
 		IsActive: true,
