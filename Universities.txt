@@ -72,11 +72,11 @@
 	{
 		Code: "HVNNVN",
 		Name: "Học viện Nông nghiệp Việt Nam",
-		Website: "",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/HVNNVN/20150812/DanhSachThiSinhTheoDot_120815_Web_Data.xls?raw=true",
-		RefreshDate: "201508121700",
+		Website: "http://www.vnua.edu.vn http://www.vnua.edu.vn/vie/tintuc/detail.php?cid=1&aid=33&id=6169",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/HVNNVN/20150813/Data_DanhSachThiSinhTheoDot_130815_Web.xls?raw=true",
+		RefreshDate: "201508131700",
 		Note: "",
-		DataVersion: 20150812,
+		DataVersion: 20150813,
 		IsActive: true,
 	},
 	{
