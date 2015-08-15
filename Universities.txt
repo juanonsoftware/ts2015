@@ -292,6 +292,16 @@
 		IsActive: true,
 	},		
 	{
+		Code: "DHVHHN",
+		Name: "Đại học Văn hóa Hà Nội",
+		Website: "http://huc.edu.vn http://huc.edu.vn/vi/bvds/id240/Thong-bao/",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHVH-HN/20150815/Data_DanhSachThiSinh150815.xls?raw=true",
+		RefreshDate: "201508151700",
+		Note: "Tổng điểm (bao gồm cả điểm ƯT)",
+		DataVersion: 20150815,
+		IsActive: true,
+	},		
+	{
 		Code: "DHBKHN",
 		Name: "Đại học Bách khoa Hà Nội",
 		Website: "http://ts.hust.edu.vn/ http://ts.hust.edu.vn/122-db-dc2015",
