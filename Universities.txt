@@ -166,9 +166,9 @@
 		Name: "Đại học Tài nguyên Môi trường Hà Nội",
 		Website: "http://hunre.edu.vn/ http://hunre.edu.vn/hre/Danh-sach-thi-sinh-dang-ky-xet-tuyen-cap-nhat-den-ngay-03082015-t4398-11261.html",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTNMT-HN/20150816/Data_DanhSachThiSinhTheoDot_W1608.xls?raw=true",
-		RefreshDate: "201508141700",
+		RefreshDate: "201508161700",
 		Note: "",
-		DataVersion: 20150814,
+		DataVersion: 20150816,
 		IsActive: true,
 	},	
 	{
