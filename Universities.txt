@@ -312,6 +312,16 @@
 		IsActive: true,
 	},
 	{
+		Code: "DHYHP",
+		Name: "Đại học Y Dược Hải Phòng",
+		Website: "http://hpmu.edu.vn/ http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Danh-sach-thi-sinh-dang-ky-xet-tuyen-truong-Dai-hoc-Y-Duoc-Hai-Phong-nam-2015-816/",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHYHP/20150817/Data_dsts-dkxt-tinh-den-ngay-17082015.xls?raw=true",
+		RefreshDate: "201508171700",
+		Note: "Tổng điểm đã bao gồm đối tượng và khu vực ưu tiên",
+		DataVersion: 20150817,
+		IsActive: true,
+	},
+	{
 		Code: "DHBKHN",
 		Name: "Đại học Bách khoa Hà Nội",
 		Website: "http://ts.hust.edu.vn/ http://ts.hust.edu.vn/122-db-dc2015",
