@@ -185,11 +185,11 @@
 		Code: "DHDHN",
 		Name: "Đại học Dược Hà Nội",
 		Website: "http://www.hup.edu.vn/ http://www.hup.edu.vn/Pages/tuyen-sinh.aspx",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHDHN/20150817/Data_17082015.xls?raw=true",
-		RefreshDate: "201508171700",
-		Note: "Chỉ tiêu tuyển sinh đại học chính quy năm 2015: 550 chỉ tiêu, đã bao gồm 71 thí sinh diện tuyển thẳng trúng tuyển (đã có 33 thí sinh xác nhận nhập học, hạn cuối xác nhận nhập học trước ngày 20/08/2015); 08 thí sinh diện Ưu tiên xét tuyển (hạn cuối cùng nộp hồ sơ diện ƯTXT là ngày 20/08/2015); 22 thí sinh từ các trường dự bị đại học; 09 thí sinh cử tuyển; 04 thí sinh nước ngoài.
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHDHN/20150818/Data_18082015.xls?raw=true",
+		RefreshDate: "201508181700",
+		Note: "Chỉ tiêu tuyển sinh đại học chính quy năm 2015: 550 chỉ tiêu, đã bao gồm 71 thí sinh diện tuyển thẳng trúng tuyển (đã có 28 thí sinh xác nhận nhập học, hạn cuối xác nhận nhập học trước ngày 20/08/2015); 08 thí sinh diện Ưu tiên xét tuyển (hạn cuối cùng nộp hồ sơ diện ƯTXT là ngày 20/08/2015); 22 thí sinh từ các trường dự bị đại học; 09 thí sinh cử tuyển; 04 thí sinh nước ngoài.
 		<br/>Tổng điểm (kể cả điểm ƯT)",
-		DataVersion: 20150817,
+		DataVersion: 20150818,
 		IsActive: true,
 	},		
 	{
