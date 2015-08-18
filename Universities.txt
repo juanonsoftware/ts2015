@@ -286,10 +286,10 @@
 		Code: "DHMDCHN",
 		Name: "Đại học Mỏ - Địa chất Hà Nội",
 		Website: "http://www.humg.edu.vn http://www.humg.edu.vn/vi/tin-tuc/thong-bao/2508-danh-sach-thi-sinh-ng-ky-xet-tuyn-vao-trng-i-hc-m-a-cht-nm-2005",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHMDC-HN/20150816/DanhSachThiSinhTheoDot_W1608_Data.xls?raw=true",
-		RefreshDate: "201508161700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHMDC-HN/20150817/DanhSachThiSinhTheoDot_W1708_Data.xls?raw=true",
+		RefreshDate: "201508171700",
 		Note: "Tổng điểm các NV chưa tính điểm UT và KV",
-		DataVersion: 20150816,
+		DataVersion: 20150817,
 		IsActive: true,
 	},		
 	{
