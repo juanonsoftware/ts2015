@@ -175,7 +175,7 @@
 		Code: "DHTM",
 		Name: "Đại học Thương mại",
 		Website: "http://vcu.edu.vn/vi/default.asp http://vcu.edu.vn/vi/index.asp?progid=9&sott=1381&loai=45",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTM/20150812/Data_20150817.xls?raw=true",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTM/20150817/Data_20150817.xls?raw=true",
 		RefreshDate: "201508171700",
 		Note: "",
 		DataVersion: 20150817,
