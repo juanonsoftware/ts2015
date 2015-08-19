@@ -306,10 +306,10 @@
 		Code: "HVNH",
 		Name: "Học viện Ngân hàng",
 		Website: "http://tuyensinh.hvnh.edu.vn/",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/HVNH/20150815/Data_2015_8_2015.xls?raw=true",
-		RefreshDate: "201508151700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/HVNH/20150818/Data_18-8.xls?raw=true",
+		RefreshDate: "201508181700",
 		Note: "Tổng điểm đã bao gồm đối tượng và khu vực ưu tiên",
-		DataVersion: 20150815,
+		DataVersion: 20150818,
 		IsActive: true,
 	},
 	{
