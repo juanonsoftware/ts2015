@@ -23,10 +23,10 @@
 		Code: "DHCNHCM",
 		Name: "Đại học Công nghiệp - TP HCM",
 		Website: "http://www.iuh.edu.vn http://www.iuh.edu.vn/TuyenSinh/thongBao/fHienThiRec?pSTTVB=124",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN-HCM/20150818/Data_DanhSachThiSinhDangKy_18_08.xls?raw=true",
-		RefreshDate: "201508181700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCN-HCM/20150819/Data_DanhSachThiSinhDangKy_19_08.xls?raw=true",
+		RefreshDate: "201508191700",
 		Note: "",
-		DataVersion: 20150818,
+		DataVersion: 20150819,
 		IsActive: true,
 	},
 	{
