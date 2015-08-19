@@ -148,6 +148,7 @@
 		Note: "",
 		DataVersion: 20150817,
 		IsActive: true,
+		DataType: Result,
 	},
 	{
 		Code: "DHCD",
