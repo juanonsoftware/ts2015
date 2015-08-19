@@ -140,6 +140,16 @@
 		IsActive: true,
 	},
 	{
+		Code: "DHKTQD",
+		Name: "Đại học Kinh tế Quốc dân",
+		Website: "https://www.neu.edu.vn https://www.neu.edu.vn/ViewTuyenSinh.aspx?ID=597",
+		FilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/DHKTQD/20150817/Result_17082015.xls",
+		RefreshDate: "201508171701",
+		Note: "",
+		DataVersion: 20150817,
+		IsActive: true,
+	},
+	{
 		Code: "DHCD",
 		Name: "Đại học Công đoàn",
 		Website: "http://dhcd.edu.vn/ http://dhcd.edu.vn/BaiViet.aspx?id=489",
