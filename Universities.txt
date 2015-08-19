@@ -63,10 +63,10 @@
 		Code: "DHHH",
 		Name: "Đại học Hàng Hải Việt Nam",
 		Website: "http://tuyensinh.vimaru.edu.vn/tuyensinh/cap-nhat-danh-sach-thi-sinh-dang-ky-xet-tuyen.vmu",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHHVN/20150815/Data_DanhSachThiSinhTheoDot_1508_21g47p.xls?raw=true",
-		RefreshDate: "201508151700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHHVN/20150818/DanhSachThiSinhTheoDot_18082015_16g00.xls?raw=true",
+		RefreshDate: "201508181700",
 		Note: "",
-		DataVersion: 20150815,
+		DataVersion: 20150818,
 		IsActive: true,
 	},
 	{
