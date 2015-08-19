@@ -143,12 +143,12 @@
 		Code: "DHCD",
 		Name: "Đại học Công đoàn",
 		Website: "http://dhcd.edu.vn/ http://dhcd.edu.vn/BaiViet.aspx?id=489",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCDVN/20150814/Data_14_8.xls?raw=true",
-		RefreshDate: "201508141702",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHCDVN/20150818/Data_18-8.xls?raw=true",
+		RefreshDate: "201508181700",
 		Note: "Tổng điểm là chưa bao gồm ưu tiên khu vực, đối tượng.<br />
 		Phòng Đào tạo - Trường Đại học Công đoàn (P302 - nhà A) hoặc gọi điện trực tiếp đến số điện thoại: 043.8512713; 043.8573204 (trong giờ hành chính).
 		",
-		DataVersion: 20150814,
+		DataVersion: 20150818,
 		IsActive: true,
 	},
 	{
@@ -286,8 +286,8 @@
 		Code: "DHMDCHN",
 		Name: "Đại học Mỏ - Địa chất Hà Nội",
 		Website: "http://www.humg.edu.vn http://www.humg.edu.vn/vi/tin-tuc/thong-bao/2508-danh-sach-thi-sinh-ng-ky-xet-tuyn-vao-trng-i-hc-m-a-cht-nm-2005",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHMDC-HN/20150818/DanhSachThiSinhTheoDot_W1808_Data.xls?raw=true",
-		RefreshDate: "201508181500",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHMDC-HN/20150818/DanhSachThiSinhTheoDot_W1808_1_Data.xls?raw=true",
+		RefreshDate: "201508181700",
 		Note: "Tổng điểm các NV chưa tính điểm UT và KV",
 		DataVersion: 20150818,
 		IsActive: true,
