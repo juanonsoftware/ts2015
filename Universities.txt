@@ -60,6 +60,16 @@
 		IsActive: true,
 	},
 	{
+		Code: "DHHH",
+		Name: "Đại học Hàng Hải Việt Nam",
+		Website: "http://tuyensinh.vimaru.edu.vn/tuyensinh/cap-nhat-danh-sach-thi-sinh-dang-ky-xet-tuyen.vmu",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHHVN/20150819/Data_DanhSachThiSinhTheoDot_19082015_17g.xls?raw=true",
+		RefreshDate: "201508191700",
+		Note: "",
+		DataVersion: 20150819,
+		IsActive: true,
+	},
+	{
 		Code: "HVNNVN",
 		Name: "Học viện Nông nghiệp Việt Nam",
 		Website: "http://www.vnua.edu.vn http://www.vnua.edu.vn/vie/tintuc/detail.php?cid=1&aid=33&id=6169",
