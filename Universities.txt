@@ -165,10 +165,10 @@
 		Code: "DHTNMTHN",
 		Name: "Đại học Tài nguyên Môi trường Hà Nội",
 		Website: "http://hunre.edu.vn/ http://hunre.edu.vn/hre/Danh-sach-thi-sinh-dang-ky-xet-tuyen-cap-nhat-den-ngay-03082015-t4398-11261.html",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTNMT-HN/20150818/Data_18_8.xls?raw=true",
-		RefreshDate: "201508181701",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTNMT-HN/20150819/Data_19_08.xls?raw=true",
+		RefreshDate: "201508191700",
 		Note: "",
-		DataVersion: 20150818,
+		DataVersion: 20150819,
 		IsActive: true,
 	},	
 	{
