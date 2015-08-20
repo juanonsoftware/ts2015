@@ -275,9 +275,9 @@
 	{
 		Code: "DHNTN",
 		Name: "Đại học Nông lâm (ĐH Thái Nguyên)",
-		Website: "http://tuyensinh.tnu.edu.vn/ http://tuyensinh.tnu.edu.vn/article/details/361",
+		Website: "http://tuyensinh.tnu.edu.vn/ http://tuyensinh.tnu.edu.vn/article/details/363",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTN/20150820/DTN_2008.xls?raw=true",
-		RefreshDate: "201508201200",
+		RefreshDate: "201508201201",
 		Note: "Danh sách thí sinh đăng ký xét tuyển sử dụng kết quả kỳ thi THPT Quốc Gia năm 2015 cập nhật ngày 15/8/2015",
 		DataVersion: 20150820,
 		IsActive: true,
