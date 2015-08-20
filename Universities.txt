@@ -165,10 +165,10 @@
 		Code: "DHTNMTHN",
 		Name: "Đại học Tài nguyên Môi trường Hà Nội",
 		Website: "http://hunre.edu.vn/ http://hunre.edu.vn/hre/Danh-sach-thi-sinh-dang-ky-xet-tuyen-cap-nhat-den-ngay-03082015-t4398-11261.html",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTNMT-HN/20150819/Data_19_08.xls?raw=true",
-		RefreshDate: "201508191700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHTNMT-HN/20150820/Data_20_08_13h30.xls?raw=true",
+		RefreshDate: "201508201330",
 		Note: "",
-		DataVersion: 20150819,
+		DataVersion: 20150820,
 		IsActive: true,
 	},	
 	{
@@ -335,7 +335,5 @@
 		Điểm xét = Tổng điểm 3 môn có nhân hệ số môn chính /4 + điểm ưu tiên/3",
 		DataVersion: 20150803,
 		IsActive: false,
-	},
-	
-
+	},	
 ]
