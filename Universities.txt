@@ -316,10 +316,10 @@
 		Code: "DHYHP",
 		Name: "Đại học Y Dược Hải Phòng",
 		Website: "http://hpmu.edu.vn/ http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Danh-sach-thi-sinh-dang-ky-xet-tuyen-truong-Dai-hoc-Y-Duoc-Hai-Phong-nam-2015-816/",
-		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHYHP/20150819/Data_dsts-dkxt-tinh-den-ngay-19082015.xls?raw=true",
-		RefreshDate: "201508191700",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHYHP/20150820/Data_dsts-dkxt-17h00-20082015-tong-hop.xls?raw=true",
+		RefreshDate: "201508201700",
 		Note: "Tổng điểm đã bao gồm đối tượng và khu vực ưu tiên",
-		DataVersion: 20150819,
+		DataVersion: 20150820,
 		IsActive: true,
 	},
 	{
