@@ -380,4 +380,5 @@
 		DataVersion: 20150819,
 		IsActive: true,
 		DataType: "Result",		
-	},]
+	},
+]
