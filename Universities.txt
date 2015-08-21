@@ -336,6 +336,16 @@
 		DataVersion: 20150803,
 		IsActive: false,
 	},	
+	{
+		Code: "DHDL",
+		Name: "Đại học Điện lực",
+		Website: "http://tuyensinh.epu.edu.vn/",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHDL/20150820/Data_DS20082015_3.xls?raw=true",
+		RefreshDate: "201508201700",
+		Note: "Tổng điểm đã bao gồm đối tượng và khu vực ưu tiên",
+		DataVersion: 20150820,
+		IsActive: true,
+	},	
 	
 	{
 		Code: "DHXDHN",
@@ -370,4 +380,15 @@
 		IsActive: true,
 		DataType: "Result",		
 	},
+	{
+		Code: "DHDL",
+		Name: "Đại học Điện lực",
+		Website: "http://tuyensinh.epu.edu.vn/",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHDL/20150820/Result_20082015162114071.xls?raw=true",
+		RefreshDate: "201508201621",
+		Note: "",
+		DataVersion: 20150820,
+		IsActive: true,
+		DataType: "Result",		
+	},	
 ]
