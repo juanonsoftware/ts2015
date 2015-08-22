@@ -1,0 +1,17 @@
+[
+	{
+		Key: "Code",
+		Value: "B",
+		Misc: "System.String",
+	},
+	{
+		Key: "FullName",
+		Value: "C",
+		Misc: "System.String",
+	},
+	{
+		Key: "PeopleId",
+		Value: "D",
+		Misc: "System.String",
+	},
+]
