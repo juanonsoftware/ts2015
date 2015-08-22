@@ -346,6 +346,16 @@
 		DataVersion: 20150820,
 		IsActive: true,
 	},	
+	{
+		Code: "DHDDND",
+		Name: "Đại học Điều dưỡng Nam Định",
+		Website: "http://www.ndun.edu.vn/",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHDDND/20150820/Data_20-8-15_YDD_Dai_hoc_dieu_duong.xls?raw=true",
+		RefreshDate: "201508201500",
+		Note: "Tổng điểm đã bao gồm đối tượng và khu vực ưu tiên",
+		DataVersion: 20150820,
+		IsActive: true,
+	},
 	
 	{
 		Code: "DHXDHN",
