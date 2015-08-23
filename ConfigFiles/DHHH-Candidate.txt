@@ -1,0 +1,27 @@
+[
+	{
+		Key: "Code",
+		Value: "C",
+		Misc: "System.String",
+	},
+	{
+		Key: "FullName",
+		Value: "D",
+		Misc: "System.String",
+	},
+	{
+		Key: "PeopleId",
+		Value: "E",
+		Misc: "System.String",
+	},
+	{
+		Key: "DateOfBirth",
+		Value: "F",
+		Misc: "System.DateTime|vi-VN",
+	},
+	{
+		Key: "Gender",
+		Value: "G",
+		Misc: "System.String",
+	},
+]
