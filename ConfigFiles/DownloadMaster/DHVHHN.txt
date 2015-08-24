@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: ".*?\\/Danh-sach-thi-sinh-dang-ky-xet-tuyen.*?.html$",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*?\\/assets\\/(.*?\\.xls)$",
+	},
+]

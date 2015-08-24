@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: "\\/hcmunrechitiet\\/trang-chu-tnmt\\/danh-sach",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*\\/(.*?\\.pdf)$",
+	},
+]

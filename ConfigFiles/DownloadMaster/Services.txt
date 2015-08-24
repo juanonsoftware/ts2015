@@ -1,16 +1,165 @@
 [
   {
-    "ServiceType": "Rabbit.CandidateDataDownload.HvngDownloadService",
-    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVNG",
+    "ServiceType": "TsqgDownloadService.HvqyCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVQY",
     "UrlsAndPatterns": {
-      "http://www.dav.edu.vn/vi/tuyen-sinh.html": ".*\\/(.*?.pdf)$|.*\\/(.*?.xls)$"
+      "http://hocvienquany.vn/Portal/ThongBao.html": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\HVQY.txt"
+    }
+  },  
+  {
+    "ServiceType": "TsqgDownloadService.DhtnmthcmCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHTNMT-HCM",
+    "UrlsAndPatterns": {
+      "http://hcmunre.edu.vn/hcmunretintuc/trang-chu-tnmt/thong-bao": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\DHTNMT-HCM.txt"
+    }
+  },  
+  {
+    "ServiceType": "TsqgDownloadService.DhdlCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHDL",
+    "UrlsAndPatterns": {
+      "http://tuyensinh.epu.edu.vn/": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\DHDL.txt"
+    }
+  },  
+  {
+    "ServiceType": "TsqgDownloadService.HvnhCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVNH",
+    "UrlsAndPatterns": {
+      "http://tuyensinh.hvnh.edu.vn/": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\HVNH.txt"
+    }
+  },  
+  {
+    "ServiceType": "TsqgDownloadService.DhvnhnCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHVH-HN",
+    "UrlsAndPatterns": {
+      "http://huc.edu.vn/vi/bvds/id240/Thong-bao/": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\DHVHHN.txt"
+    }
+  },  
+  {
+    "ServiceType": "TsqgDownloadService.DhddndCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHDDND",
+    "UrlsAndPatterns": {
+      "http://www.ndun.edu.vn/index.php/ao-tao/tuyan-sinh": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\DHDDND.txt"
+    }
+  },  
+  {
+    "ServiceType": "TsqgDownloadService.DhktqdDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHKTQD",
+    "UrlsAndPatterns": {
+      "https://www.neu.edu.vn/ViewTuyenSinh.aspx?ID=597": ".*?\\/Upload_Files_WEB\\/Files\\/ThongBao\\/(.*?)$",
+	  "https://www.neu.edu.vn/ViewTuyenSinh.aspx?ID=608": ".*?\\/Upload_Files_WEB\\/Files\\/ThongBao\\/(.*?)$",
     }
   },
   {
-    "ServiceType": "Rabbit.CandidateDataDownload.HvngDownloadService",
+    "ServiceType": "TsqgDownloadService.HvngDownloadService, TsqgDownloadService",
     "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVNG",
     "UrlsAndPatterns": {
-      "http://www.ndun.edu.vn/index.php/ao-tao/tuyan-sinh": ""
+      "http://www.dav.edu.vn/vi/tuyen-sinh.html": ".*\\/(.*?\\.pdf)$|.*\\/(.*?\\.xls)$"
     }
-  }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhtmDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHTM",
+    "UrlsAndPatterns": {
+      "http://www.vcu.edu.vn/vi/index.asp?progid=20000": "^.*\\/(.*?\\.xls)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhdhnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHDHN",
+    "UrlsAndPatterns": {
+      "http://www.hup.edu.vn/Pages/tuyen-sinh.aspx": ".*?Documents\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhhhvnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHHHVN",
+    "UrlsAndPatterns": {
+      "http://tuyensinh.vimaru.edu.vn/tuyensinh/cap-nhat-danh-sach-thi-sinh-dang-ky-xet-tuyen.vmu": ".*?\\/files\\/(.*?\\.xlsx)$|.*?\\/files\\/(.*?\\.xls)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhlnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHLN",
+    "UrlsAndPatterns": {
+      "http://tuyensinh.vfu.edu.vn/index.php?option=com_content&view=article&id=320:s-im-thi-ti-trng-i-hc-lam-nghip&catid=97:i-hc-chinh-qui&Itemid=122": ".*?\\/pdfs\\/(.*?\\.pdf)$",
+	  "http://tuyensinh.vfu.edu.vn/index.php?option=com_content&view=section&layout=blog&id=1&Itemid=78": ".*?\\/pdfs\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhcdDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHCDVN",
+    "UrlsAndPatterns": {
+      "http://dhcd.edu.vn/BaiViet.aspx?id=490": ".*?tao\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhyhpDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHYHP",
+    "UrlsAndPatterns": {
+      "http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Danh-sach-thi-sinh-dang-ky-xet-tuyen-truong-Dai-hoc-Y-Duoc-Hai-Phong-nam-2015-816/": ".*?hpmu\\/uploads\\/news\\/.*?\\/(.*?)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhtnmthnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHTNMT-HN",
+    "UrlsAndPatterns": {
+      "http://hunre.edu.vn/hre/Danh-sach-thi-sinh-dang-ky-xet-tuyen-cap-nhat-den-ngay-03082015-t4398-11261.html": ".*?\\/file\\/(.*?)\\/(.*?\\.xls)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhcnhcmDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHCN-HCM",
+    "UrlsAndPatterns": {
+      "http://www.iuh.edu.vn/TuyenSinh/thongBao/fHienThiRec?pSTTVB=124": ".*?img\\/(.*?\\.xls)$|.*?img\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.HvnnvnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVNNVN",
+    "UrlsAndPatterns": {
+      "http://www.vnua.edu.vn/vie/tintuc/detail.php?cid=1&aid=33&id=6205": ".*?tao\\/(.*?\\.xls)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.HvhcqgDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVHCQG",
+    "UrlsAndPatterns": {
+      "http://www1.napa.vn/bandaotao/tong-hop-danh-sach-dkxt-dai-hoc-chinh-quy-cap-nhat-nhat.htm": ".*\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhkbhcmDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHBK-HCM",
+    "UrlsAndPatterns": {
+      "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitiettb&thongbao_id=585": ".*\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhcngtvtDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHCNGTVT",
+    "UrlsAndPatterns": {
+      "http://utt.edu.vn/home/tuyen-sinh/tuyen-sinh-2015/1458-danh-sach-thi-sinh-dang-ky-xet-tuyen-nguyen-vong-1-nam-2015": ".*\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhlhnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHL-HN",
+    "UrlsAndPatterns": {
+      "http://www.hlu.edu.vn/tintuc/3615/Danh-sach-thi-sinh-DKXT-Dai-hoc-nam-2015-NV1-vao-Truong-Dai-hoc-Luat-Ha-Noi-(den-het-ngay-20/08/2015).html": ".*\\/(.*?\\.pdf)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhmdchnDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHMDC-HN",
+    "UrlsAndPatterns": {
+      "http://www.humg.edu.vn/vi/tin-tuc/thong-bao/2508-danh-sach-thi-sinh-ng-ky-xet-tuyn-vao-trng-i-hc-m-a-cht-nm-2005": "\\d+\\/(.*?\\.xls)$"
+    }
+  },
+  {
+    "ServiceType": "TsqgDownloadService.DhlhcmDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHL-HCM",
+    "UrlsAndPatterns": {
+      "http://www.hcmulaw.edu.vn/hcmulaw/index.php?option=com_content&view=article&id=12070:dstsdkxt&catid=733:dsdangky&Itemid=335": ".*\\/(.*?\\.pdf)$"
+    }
+  },
 ]

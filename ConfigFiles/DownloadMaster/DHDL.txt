@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: "\\/Common\\/ChiTiet",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*\\\\(.*?\\.xls)$|.*\\/(.*?\\.xls)$",
+	},
+]

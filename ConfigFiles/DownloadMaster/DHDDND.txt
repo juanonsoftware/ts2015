@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: "index\\.php\\/ao-tao\\/tuyan-sinh\\/",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*\\/(.*?\\.xls)$",
+	},
+]

@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: "danh_sach_dang_ky_xet_tuyen",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*\\/(.*?\\.pdf)$",
+	},
+]

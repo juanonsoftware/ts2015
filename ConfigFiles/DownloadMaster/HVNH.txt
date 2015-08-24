@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: "thong-tin-tuyen-sinh-2015\\/dai-hoc-cao-dang",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*?\\/files\\/(.*?\\.xls)$",
+	},
+]
