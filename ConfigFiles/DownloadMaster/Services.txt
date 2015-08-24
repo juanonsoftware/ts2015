@@ -1,0 +1,16 @@
+[
+  {
+    "ServiceType": "Rabbit.CandidateDataDownload.HvngDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVNG",
+    "UrlsAndPatterns": {
+      "http://www.dav.edu.vn/vi/tuyen-sinh.html": ".*\\/(.*?.pdf)$|.*\\/(.*?.xls)$"
+    }
+  },
+  {
+    "ServiceType": "Rabbit.CandidateDataDownload.HvngDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVNG",
+    "UrlsAndPatterns": {
+      "http://www.ndun.edu.vn/index.php/ao-tao/tuyan-sinh": ""
+    }
+  }
+]
