@@ -10,7 +10,7 @@
 		Misc: "System.String",
 	},
 	{
-		Key: "MajorCode",
+		Key: "MajorName",
 		Value: "S",
 		Misc: "System.String",
 	},
