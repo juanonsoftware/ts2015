@@ -381,4 +381,31 @@
 		IsActive: true,
 		DataType: "Result",		
 	},
+	
+	{
+		Code: "DHXDHN",
+		Name: "Đại học Xây dựng Hà Nội",
+		Website: "http://tuyensinh.nuce.edu.vn/ http://tuyensinh.nuce.edu.vn/danh-muc/thong-tin-tuyen-sinh-2015",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHXD-HN/20150821/Data_danhsachthisinhtheodotxettuyen.xls?raw=true",
+		ConfigFilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/ConfigFiles/DHXD-Candidate.txt",
+		RefreshDate: "201508211700",
+		Note: "Thứ tự xếp hạng theo nguyện vọng 1 trong phiếu ĐK xét tuyển",
+		DataVersion: 20150821,
+		IsActive: true,
+		DataType: "Candidate",
+	},
+	
+	{
+		Code: "DHHH",
+		Name: "Đại học Hàng Hải Việt Nam",
+		Website: "http://tuyensinh.vimaru.edu.vn/tuyensinh/cap-nhat-danh-sach-thi-sinh-dang-ky-xet-tuyen.vmu",
+		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHHHVN/20150822/Data_DKXT_CHIEU_22082015_0.xls?raw=true",
+		ConfigFilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/ConfigFiles/DHHH-Candidate.txt",
+		RefreshDate: "201508221700",
+		Note: "",
+		DataVersion: 20150822,
+		IsActive: true,
+		DataType: "Candidate",
+	},	
+	
 ]
