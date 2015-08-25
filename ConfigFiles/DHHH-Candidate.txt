@@ -24,4 +24,44 @@
 		Value: "G",
 		Misc: "System.String",
 	},
+	{
+		Key: "MajorCode",
+		Value: "H",
+		Misc: "System.String",
+	},
+	{
+		Key: "GroupSelected",
+		Value: "I",
+		Misc: "System.String",
+	},
+	{
+		Key: "MajorCode2",
+		Value: "J",
+		Misc: "System.String",
+	},
+	{
+		Key: "GroupSelected2",
+		Value: "K",
+		Misc: "System.String",
+	},
+	{
+		Key: "MajorCode3",
+		Value: "L",
+		Misc: "System.String",
+	},
+	{
+		Key: "GroupSelected3",
+		Value: "M",
+		Misc: "System.String",
+	},
+	{
+		Key: "MajorCode4",
+		Value: "N",
+		Misc: "System.String",
+	},
+	{
+		Key: "GroupSelected4",
+		Value: "O",
+		Misc: "System.String",
+	},
 ]
