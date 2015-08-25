@@ -387,7 +387,7 @@
 		Website: "http://tuyensinh.vfu.edu.vn/ http://tuyensinh.vfu.edu.vn/index.php?option=com_content&view=article&id=320:s-im-thi-ti-trng-i-hc-lam-nghip&catid=97:i-hc-chinh-qui&Itemid=122",
 		FilePath: "https://github.com/juanonsoftware/ts2015/blob/master/DHLN/20150824/Result_DSTT_LNHdot1.xls?raw=true",
 		ConfigFilePath: "https://raw.githubusercontent.com/juanonsoftware/ts2015/master/ConfigFiles/DHLN-Result.txt",
-		RefreshDate: "201508241702",
+		RefreshDate: "201508241700",
 		Note: "",
 		DataVersion: 20150824,
 		IsActive: true,
