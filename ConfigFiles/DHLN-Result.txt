@@ -1,7 +1,7 @@
 [
 	{
 		Key: "Code",
-		Value: "B",
+		Value: "D",
 		Misc: "System.String",
 	},
 	{
@@ -11,17 +11,17 @@
 	},
 	{
 		Key: "MajorCode",
-		Value: "L",
+		Value: "S",
 		Misc: "System.String",
 	},
 	{
 		Key: "Priority",
-		Value: "M",
+		Value: "T",
 		Misc: "System.String",
 	},
 	{
 		Key: "FinalPoint",
-		Value: "J",
+		Value: "R",
 		Misc: "System.Decimal",
 	},
 ]
