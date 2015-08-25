@@ -16,17 +16,17 @@
 	},
 	{
 		Key: "MajorCode",
-		Value: "R",
-		Misc: "System.String",
-	},
-	{
-		Key: "Priority",
 		Value: "S",
 		Misc: "System.String",
 	},
 	{
+		Key: "Priority",
+		Value: "T",
+		Misc: "System.String",
+	},
+	{
 		Key: "FinalPoint",
-		Value: "P",
+		Value: "Q",
 		Misc: "System.Decimal",
 	},
 ]
