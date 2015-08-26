@@ -20,11 +20,6 @@
 		Misc: "System.String",
 	},
 	{
-		Key: "MajorName",
-		Value: "M",
-		Misc: "System.String",
-	},
-	{
 		Key: "Priority",
 		Value: "N",
 		Misc: "System.String",
