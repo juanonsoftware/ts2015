@@ -10,6 +10,11 @@
 		Misc: "System.String",
 	},
 	{
+		Key: "Gender",
+		Value: "G",
+		Misc: "System.String",
+	},
+	{
 		Key: "MajorCode",
 		Value: "Q",
 		Misc: "System.String",
