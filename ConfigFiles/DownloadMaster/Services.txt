@@ -95,7 +95,9 @@
     "ServiceType": "TsqgDownloadService.DhhhvnDownloadService, TsqgDownloadService",
     "TargetFolder": "E:\\Projects\\github\\ts2015\\DHHHVN",
     "UrlsAndPatterns": {
-      "http://tuyensinh.vimaru.edu.vn/tuyensinh/cap-nhat-danh-sach-thi-sinh-dang-ky-xet-tuyen.vmu": ".*?\\/files\\/(.*?\\.xlsx)$|.*?\\/files\\/(.*?\\.xls)$"
+      "http://tuyensinh.vimaru.edu.vn/tuyensinh/cap-nhat-danh-sach-thi-sinh-dang-ky-xet-tuyen.vmu": ".*?\\/files\\/(.*?\\.xlsx)$|.*?\\/files\\/(.*?\\.xls)||.*?\\/files\\/(.*?\\.pdf)||.*?\\/files\\/(.*?\\.doc)$",
+	  "http://tuyensinh.vimaru.edu.vn/tuyensinh/ket-qua-xet-tuyen-dai-hoc-cao-dang-chinh-quy-nguyen-vong-i-nam-2015-chinh-thuc.vmu": ".*?\\/files\\/(.*?\\.xlsx)$|.*?\\/files\\/(.*?\\.xls)||.*?\\/files\\/(.*?\\.pdf)||.*?\\/files\\/(.*?\\.doc)$",
+	  "http://tuyensinh.vimaru.edu.vn/tuyensinh/xet-tuyen-nguyen-vong-bo-sung-dot-i-nguyen-vong-2-tu-ngay-268-den-ngay-792015.vmu": ".*?\\/files\\/(.*?\\.xlsx)$|.*?\\/files\\/(.*?\\.xls)||.*?\\/files\\/(.*?\\.pdf)||.*?\\/files\\/(.*?\\.doc)$",
     }
   },
   {
