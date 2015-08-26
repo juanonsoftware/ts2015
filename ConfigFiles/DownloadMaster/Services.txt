@@ -119,14 +119,16 @@
     "ServiceType": "TsqgDownloadService.DhyhpDownloadService, TsqgDownloadService",
     "TargetFolder": "E:\\Projects\\github\\ts2015\\DHYHP",
     "UrlsAndPatterns": {
-      "http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Danh-sach-thi-sinh-dang-ky-xet-tuyen-truong-Dai-hoc-Y-Duoc-Hai-Phong-nam-2015-816/": ".*?hpmu\\/uploads\\/news\\/.*?\\/(.*?)$"
+      "http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Danh-sach-thi-sinh-dang-ky-xet-tuyen-truong-Dai-hoc-Y-Duoc-Hai-Phong-nam-2015-816/": ".*?hpmu\\/uploads\\/news\\/.*?\\/(.*?)$",
+	  "http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Diem-trung-tuyen-va-Danh-sach-thi-sinh-trung-tuyen-nguyen-vong-1-nam-2015-850/": ".*?hpmu\\/uploads\\/news\\/.*?\\/(.*?)$",
     }
   },
   {
     "ServiceType": "TsqgDownloadService.DhtnmthnDownloadService, TsqgDownloadService",
     "TargetFolder": "E:\\Projects\\github\\ts2015\\DHTNMT-HN",
     "UrlsAndPatterns": {
-      "http://hunre.edu.vn/hre/Danh-sach-thi-sinh-dang-ky-xet-tuyen-cap-nhat-den-ngay-03082015-t4398-11261.html": ".*?\\/file\\/(.*?)\\/(.*?\\.xls)$"
+      "http://hunre.edu.vn/hre/Danh-sach-thi-sinh-dang-ky-xet-tuyen-cap-nhat-den-ngay-03082015-t4398-11261.html": ".*?\\/file\\/(.*?)\\/(.*?\\.xls)$",
+	  "http://hunre.edu.vn/hre/Danh-sach-thi-sinh-trung-tuyen-dot-xet-tuyen-nguyen-vong-I-nam-2015-he-dai-hoc-cao-dang-lien-thong-dai-hoc-chinh-quy-nam-2015--img-srchttpwwwigsvnacvnimagesnew2gif-border0-t4398-11322.html": ".*?\\/file\\/(.*?\\.pdf)$",
     }
   },
   {
