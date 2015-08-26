@@ -1,27 +1,32 @@
 [
 	{
 		Key: "Code",
-		Value: "D",
+		Value: "B",
 		Misc: "System.String",
 	},
 	{
 		Key: "FullName",
-		Value: "C",
+		Value: "D+E",
 		Misc: "System.String",
 	},
 	{
-		Key: "MajorName",
-		Value: "S",
-		Misc: "System.String",
-	},
-	{
-		Key: "Priority",
+		Key: "MajorCode",
 		Value: "R",
 		Misc: "System.String",
 	},
 	{
+		Key: "Priority",
+		Value: "S",
+		Misc: "System.String",
+	},
+	{
+		Key: "Gender",
+		Value: "H",
+		Misc: "System.String",
+	},
+	{
 		Key: "FinalPoint",
-		Value: "Q",
+		Value: "P",
 		Misc: "System.Decimal",
 	},
 ]

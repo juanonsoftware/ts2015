@@ -10,23 +10,28 @@
 		Misc: "System.String",
 	},
 	{
+		Key: "PeopleId",
+		Value: "D",
+		Misc: "System.String",
+	},
+	{
 		Key: "MajorCode",
-		Value: "N",
+		Value: "L",
 		Misc: "System.String",
 	},
 	{
 		Key: "MajorName",
-		Value: "O",
+		Value: "M",
 		Misc: "System.String",
 	},
 	{
 		Key: "Priority",
-		Value: "P",
+		Value: "N",
 		Misc: "System.String",
 	},
 	{
 		Key: "FinalPoint",
-		Value: "L",
+		Value: "J",
 		Misc: "System.Decimal",
 	},
 ]

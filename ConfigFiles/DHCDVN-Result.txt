@@ -1,17 +1,17 @@
 [
 	{
 		Key: "Code",
-		Value: "D",
-		Misc: "System.String",
-	},
-	{
-		Key: "FullName",
 		Value: "C",
 		Misc: "System.String",
 	},
 	{
-		Key: "MajorName",
-		Value: "S",
+		Key: "FullName",
+		Value: "D",
+		Misc: "System.String",
+	},
+	{
+		Key: "MajorCode",
+		Value: "Q",
 		Misc: "System.String",
 	},
 	{
@@ -21,7 +21,7 @@
 	},
 	{
 		Key: "FinalPoint",
-		Value: "Q",
+		Value: "O",
 		Misc: "System.Decimal",
 	},
 ]

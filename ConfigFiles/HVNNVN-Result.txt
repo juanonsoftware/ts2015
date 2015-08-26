@@ -6,27 +6,37 @@
 	},
 	{
 		Key: "FullName",
-		Value: "C",
+		Value: "C+D",
+		Misc: "System.String",
+	},
+	{
+		Key: "PeopleId",
+		Value: "E",
 		Misc: "System.String",
 	},
 	{
 		Key: "Gender",
-		Value: "F",
+		Value: "G",
 		Misc: "System.String",
 	},
 	{
 		Key: "MajorCode",
-		Value: "S",
+		Value: "N",
+		Misc: "System.String",
+	},
+	{
+		Key: "MajorName",
+		Value: "O",
 		Misc: "System.String",
 	},
 	{
 		Key: "Priority",
-		Value: "U",
+		Value: "P",
 		Misc: "System.String",
 	},
 	{
 		Key: "FinalPoint",
-		Value: "Q",
+		Value: "L",
 		Misc: "System.Decimal",
 	},
 ]
