@@ -142,7 +142,8 @@
     "ServiceType": "TsqgDownloadService.HvnnvnDownloadService, TsqgDownloadService",
     "TargetFolder": "E:\\Projects\\github\\ts2015\\HVNNVN",
     "UrlsAndPatterns": {
-      "http://www.vnua.edu.vn/vie/tintuc/detail.php?cid=1&aid=33&id=6205": ".*?tao\\/(.*?\\.xls)$"
+      "http://www.vnua.edu.vn/vie/tintuc/detail.php?cid=1&aid=33&id=6205": ".*?tao\\/(.*?\\.xls)$",
+	  "http://www.vnua.edu.vn/vie/tintuc/detail.php?cid=0&aid=37&id=6231": ".*?tao\\/(.*?\\.xls)$",
     }
   },
   {
