@@ -1,5 +1,12 @@
 [
   {
+    "ServiceType": "TsqgDownloadService.HvtcCategoryDownloadService, TsqgDownloadService",
+    "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVTC",
+    "UrlsAndPatterns": {
+      "http://www.aof.edu.vn/tabid/109/Default.aspx": "D:\\Wip\\Practices\\OpenSource\\ts2015\\ConfigFiles\\DownloadMaster\\HVTC.txt"
+    }
+  },  
+  {
     "ServiceType": "TsqgDownloadService.HvqyCategoryDownloadService, TsqgDownloadService",
     "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVQY",
     "UrlsAndPatterns": {

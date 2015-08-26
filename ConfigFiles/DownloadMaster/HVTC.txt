@@ -1,0 +1,10 @@
+[
+	{
+		Key: "PagePattern",
+		Value: "tabid\\/109\\/catid\\/308\\/id\/(\\d+)",
+	},
+	{
+		Key: "FilePattern",
+		Value: ".*\\/(.*?\\.pdf)$",
+	},
+]
