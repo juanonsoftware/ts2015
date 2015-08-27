@@ -3,8 +3,7 @@
     "ServiceType": "TsqgDownloadService.HvcnbcvtDownloadService, TsqgDownloadService",
     "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVCNBCVT",
     "UrlsAndPatterns": {
-      "http://203.162.10.108/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hLizBHd1cfIwMDR3czA0cTdx9f50Ajf39zA6B8JJK8haGRmYGnuZtLmJG5IVC5AUm6DcIcTQ08gwKdnNyNzQxNDM0I6A4HuRa_7agmYJoPkjfAARwN9P088nNT9QtyQyMMMgPSAUhOb3k!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfOThWQUdFTDIwODEzNTBJN1ZBSjJOTjNDTzA!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ptitlib/home/thongbao/6240fe00498e8bbc9934b9f007d52f87": ".*\\/(.*?\\.pdf)\\?"
-      "http://203.162.10.108/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hLizBHd1cfIwMDR3czA0cTdx9f50Ajf39zA6B8JJK8haGRmYGnuZtLmJG5IVC5AUm6DcIcTQ08gwKdnNyNzQxNDM0I6A4HuRa_7agmYJoPkjfAARwN9P088nNT9QtyQyMMMgPSAUhOb3k!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfOThWQUdFTDIwODEzNTBJN1ZBSjJOTjNDTzA!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ptitlib/home/thongbao/6240fe00498e8bbc9934b9f007d52f87": ".*\\/(.*?\\.pdf)\\?"
+      "http://203.162.10.108/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hLizBHd1cfIwMDR3czA0cTdx9f50Ajf39zA6B8JJK8haGRmYGnuZtLmJG5IVC5AUm6DcIcTQ08gwKdnNyNzQxNDM0I6A4HuRa_7agmYJoPkjfAARwN9P088nNT9QtyQyMMMgPSAUhOb3k!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfOThWQUdFTDIwODEzNTBJN1ZBSjJOTjNDTzA!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ptitlib/home/thongbao/6240fe00498e8bbc9934b9f007d52f87": ".*\\/(.*?\\.pdf)\\?",
     }
   },  
   {
@@ -202,7 +201,8 @@
     "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHMDC-HN",
     "UrlsAndPatterns": {
       "http://www.humg.edu.vn/vi/tin-tuc/thong-bao/2508-danh-sach-thi-sinh-ng-ky-xet-tuyn-vao-trng-i-hc-m-a-cht-nm-2005": "\\d+\\/(.*?\\.xls)$",
-	  "http://dtdh.humg.edu.vn/index.php?option=com_content&view=article&id=127:dstrung-tuyen&catid=72:hedaotao-chinhquy&Itemid=150": "\\d+\\/(.*?\\.pdf)$"
+	  "http://dtdh.humg.edu.vn/index.php?option=com_content&view=article&id=127:dstrung-tuyen&catid=72:hedaotao-chinhquy&Itemid=150": "\\d+\\/(.*?\\.pdf)$",
+	  "http://ts.humg.edu.vn/thong-tin-tuyen-sinh/165-danh-sach-thi-sinh-trung-tuy-n-d-t-xet-tuy-n-nv1": "\\d+\\/(.*?\\.pdf)$",
     }
   },
   {

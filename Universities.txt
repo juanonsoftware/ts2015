@@ -478,6 +478,16 @@
 		DataType: "Result",
 	},		
 	{
+		Code: "DHTNMTHCM",
+		Name: "Đại học Tài nguyên Môi trường TPHCM",
+		Website: "http://www.hcmunre.edu.vn/",
+		FilePath: "",
+		RefreshDate: "201508241700",
+		Note: "",
+		DataVersion: 20150824,
+		IsActive: true,
+	},		
+	{
 		Code: "DHYHP",
 		Name: "Đại học Y Dược Hải Phòng",
 		Website: "http://hpmu.edu.vn/ http://hpmu.edu.vn/hpmu/news/Dai-Hoc-32/Danh-sach-thi-sinh-dang-ky-xet-tuyen-truong-Dai-hoc-Y-Duoc-Hai-Phong-nam-2015-816/",
