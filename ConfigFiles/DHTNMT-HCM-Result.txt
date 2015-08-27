@@ -22,12 +22,12 @@
 	{
 		Key: "MajorCode",
 		Value: "O",
-		Misc: "System.Decimal",
+		Misc: "System.String",
 	},
 	{
 		Key: "Priority",
 		Value: "P",
-		Misc: "System.Decimal",
+		Misc: "System.String",
 	},
 	{
 		Key: "FinalPoint",
