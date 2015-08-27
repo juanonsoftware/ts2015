@@ -4,6 +4,7 @@
     "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\HVCNBCVT",
     "UrlsAndPatterns": {
       "http://203.162.10.108/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hLizBHd1cfIwMDR3czA0cTdx9f50Ajf39zA6B8JJK8haGRmYGnuZtLmJG5IVC5AUm6DcIcTQ08gwKdnNyNzQxNDM0I6A4HuRa_7agmYJoPkjfAARwN9P088nNT9QtyQyMMMgPSAUhOb3k!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfOThWQUdFTDIwODEzNTBJN1ZBSjJOTjNDTzA!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ptitlib/home/thongbao/6240fe00498e8bbc9934b9f007d52f87": ".*\\/(.*?\\.pdf)\\?"
+      "http://203.162.10.108/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hLizBHd1cfIwMDR3czA0cTdx9f50Ajf39zA6B8JJK8haGRmYGnuZtLmJG5IVC5AUm6DcIcTQ08gwKdnNyNzQxNDM0I6A4HuRa_7agmYJoPkjfAARwN9P088nNT9QtyQyMMMgPSAUhOb3k!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfOThWQUdFTDIwODEzNTBJN1ZBSjJOTjNDTzA!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ptitlib/home/thongbao/6240fe00498e8bbc9934b9f007d52f87": ".*\\/(.*?\\.pdf)\\?"
     }
   },  
   {
@@ -109,7 +110,8 @@
     "ServiceType": "TsqgDownloadService.DhdhnDownloadService, TsqgDownloadService",
     "TargetFolder": "D:\\Wip\\Practices\\OpenSource\\ts2015\\DHDHN",
     "UrlsAndPatterns": {
-      "http://www.hup.edu.vn/Pages/tuyen-sinh.aspx": ".*?Documents\\/(.*?\\.pdf)$"
+      "http://www.hup.edu.vn/Pages/tuyen-sinh.aspx": ".*?Documents\\/(.*?\\.pdf)$",
+	  "http://www.hup.edu.vn/cpbdv/pdt/noidung/Lists/Tuyensinh/View_detail.aspx?ItemID=205": ".*\\/(.*?\\.pdf)$",
     }
   },
   {
